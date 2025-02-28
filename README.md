@@ -70,14 +70,14 @@ Contributions are welcome! If you have ideas for improvements or new features, p
       ```
       
   3. Commit your changes:
-    ```
-    git commit -m 'Add new feature'
-    ```
-
+      ```bash
+      git commit -m 'Add new feature'
+      ```
+      
   5. Push to the branch:
-    ```
-    git push origin feature/YourFeature
-    ```
+  ```bash
+  git push origin feature/YourFeature
+  ```
 
   7. Open a Pull Request.
 
