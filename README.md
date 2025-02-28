@@ -75,9 +75,9 @@ Contributions are welcome! If you have ideas for improvements or new features, p
       ```
       
   5. Push to the branch:
-  ```bash
-  git push origin feature/YourFeature
-  ```
+      ```bash
+      git push origin feature/YourFeature
+      ```
 
   7. Open a Pull Request.
 
