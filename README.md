@@ -81,4 +81,5 @@ Contributions are welcome! If you have ideas for improvements or new features, p
 
   7. Open a Pull Request.
 
-*Empower Your Health Journey with Fit-Fusion – Your Fitness, Our Passion!*
+
+**Empower Your Health Journey with Fit-Fusion – Your Fitness, Our Passion!**
