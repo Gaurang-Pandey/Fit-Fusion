@@ -1,8 +1,20 @@
 # Fit-Fusion
 
-[![Version](https://img.shields.io/badge/Version-1.0-green.svg)](https://github.com/Gaurang-Pandey/Fit-Fusion) [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+[![Version](https://img.shields.io/badge/Version-1.0-green.svg)](https://github.com/Gaurang-Pandey/Fit-Fusion)
 
 Welcome to **Fit-Fusion** – Your Ultimate Fitness Companion!
+
+---
+
+## Table of Contents
+
+- [Overview](#overview)
+- [Features](#features)
+- [Getting Started](#getting-started)
+  - [Prerequisites](#prerequisites)
+  - [Installation](#installation)
+- [Usage](#usage)
+- [Contributing](#contributing)
 
 ---
 
@@ -53,8 +65,9 @@ Contributions are welcome! If you have ideas for improvements or new features, p
 
   1. Fork the repository.
   2. Create a new branch:
-     ```bash
-    git checkout -b feature/YourFeature
+      ```bash
+      git checkout -b feature/YourFeature
+      ```
   3. Commit your changes:
     ```bash
     git commit -m 'Add new feature'
