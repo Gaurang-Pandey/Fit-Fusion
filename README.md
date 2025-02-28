@@ -68,14 +68,17 @@ Contributions are welcome! If you have ideas for improvements or new features, p
       ```bash
       git checkout -b feature/YourFeature
       ```
+      
   3. Commit your changes:
-    ```bash
+    ```
     git commit -m 'Add new feature'
     ```
-  4. Push to the branch:
-    ```bash
+
+  5. Push to the branch:
+    ```
     git push origin feature/YourFeature
     ```
-  5. Open a Pull Request.
+
+  7. Open a Pull Request.
 
 *Empower Your Health Journey with Fit-Fusion – Your Fitness, Our Passion!*
